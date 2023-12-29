@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "holpy"
+version = "0.1.0"
+#author = "Bohua Zhan"
+#author_email = ""
+description = "Implementation of higher-order logic in Python"
+license = {"file" = "holpy/LICENSE"}
